@@ -1,4 +1,6 @@
 # My Portfolio!
 
 ## Roadmap
-[] email form to my email.
+- form
+- i18n
+- darktheme
