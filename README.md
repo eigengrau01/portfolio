@@ -4,3 +4,4 @@
 - form
 - i18n
 - darktheme
+- animations
